@@ -1,5 +1,4 @@
-datasource:
-  url: jdbc:hsqldb:hsql://localhost:9002/tenantDB_100000
-  username: root
-  password: '#2d!Im#ZbTB3wM6W1z'
-  driver.class.name: com.mysql.jdbc.Driver
+url: jdbc:hsqldb:hsql://localhost:9002/tenantDB_100000
+username: root
+password: '#2d!Im#ZbTB3wM6W1z'
+driver.class.name: com.mysql.jdbc.Driver
